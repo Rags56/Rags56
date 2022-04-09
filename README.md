@@ -44,7 +44,7 @@
 </td></tr></table>  
 
 ## Github Stats  
-<div align="center"><img src="https://metrics.lecoq.io/Electro56?template=terminal&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FDubai" align="center" /></div>  
+<div align="center"><img src="https://metrics.lecoq.io/Electro56?template=terminal&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FDubai" align="center" /></div>  
   
 ## My Spotify  
 <div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=mz7ofoepfngo8k0aqj355fj23" /></div>  
