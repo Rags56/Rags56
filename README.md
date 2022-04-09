@@ -52,6 +52,6 @@
 <br/>  
 
 <div align="center">
-<img src="https://profile-counter.glitch.me/Electro56/count.svg" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Electro56&color=blueviolet" align="center" />
 </div>  
 
