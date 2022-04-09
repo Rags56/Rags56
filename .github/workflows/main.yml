@@ -26,5 +26,3 @@ jobs:
           template: terminal
           base: header, activity, community
           config_timezone: Asia/Dubai
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
