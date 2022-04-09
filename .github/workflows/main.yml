@@ -25,3 +25,4 @@ jobs:
           user: Electro56
           template: terminal
           base: header, activity, community
+          config_timezone: Asia/Dubai
