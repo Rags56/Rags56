@@ -1,11 +1,7 @@
 
 ### <div align="center">I'm Electro, A hobbyist developer <3</div>  
   
-
 - ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
 
 
 ## My Skill Set  
@@ -47,14 +43,9 @@
 
 </td></tr></table>  
 
-
-
-
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Electro56&show_icons=true&theme=radical&count_private=true&hide_border=true" align="center" /></div>  
-
-
-
+<div align="center"><img src="https://metrics.lecoq.io/Electro56?template=terminal&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FDubai" align="center" /></div>  
+  
 ## My Spotify  
 <div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=mz7ofoepfngo8k0aqj355fj23" /></div>  
 
