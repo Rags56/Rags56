@@ -46,12 +46,5 @@
 ## Github Stats  
 <div align="center"><img src="https://metrics.lecoq.io/Electro56?template=terminal&base.repositories=0&base.metadata=0&config.timezone=Asia%2FDubai" align="center" /></div>  
   
-## My Spotify  
-<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=mz7ofoepfngo8k0aqj355fj23" /></div>  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Electro56&color=blueviolet" align="center" />
-</div>  
 
