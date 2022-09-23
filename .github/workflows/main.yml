@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Electro56
+          user: Rags56
           template: terminal
           base: header, activity, community
           config_timezone: Asia/Dubai
