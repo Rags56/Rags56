@@ -1,6 +1,4 @@
 
-### <div align="center">I'm Electro, A hobbyist developer <3</div>  
-  
 - ⚡ Fun fact: I use tabs over spaces  
 
 
