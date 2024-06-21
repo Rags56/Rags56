@@ -1,45 +1,13 @@
+![My Stats](https://github-readme-stats.vercel.app/api?username=Rags56)
 
-- ⚡ Fun fact: I use tabs over spaces  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
-
-</td></tr></table>  
-
-
-
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Zapier-informational?style=for-the-badge&logo=zapier&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Airtable-informational?style=for-the-badge&logo=airtable&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/SQLite3-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Supabase-informational?style=for-the-badge&logo=supabase&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/JSON-informational?style=for-the-badge&logo=json&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/YAML-informational?style=for-the-badge&logo=yaml&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=blueviolet)
